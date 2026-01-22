@@ -73,6 +73,6 @@ GET https://api.petrushka.ru/partners
     "logo": "/img/partners/victoria.png",
     "Url": "https://victoria-group.ru"
   }
-]
+]```
 
 ## Задание 3: архитектура
