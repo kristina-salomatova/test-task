@@ -70,6 +70,9 @@ GET https://api.petrushka.ru/partners
     "type": "Ближайшая доставка",
     "details": "сегодня 17:00-19:00",
     "logo": "/img/partners/victoria.png",
-    "Url": "https://victoria-group.ru/"
+    "Url": "https://victoria-group.ru"
   }
 ]
+
+## Задание 3: архитектура
+<img width="752" height="1069" alt="image" src="https://github.com/user-attachments/assets/52be3d8f-20a7-4994-b9ae-1e14b01fb6ef" />
