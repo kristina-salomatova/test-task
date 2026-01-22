@@ -38,6 +38,7 @@
 GET https://api.petrushka.ru/partners
 
 ### 2. Ответ этого REST API в соответствии с макетом
+## Задание 3: архитектура
 ```json
 [
   {
@@ -72,6 +73,6 @@ GET https://api.petrushka.ru/partners
     "logo": "/img/partners/victoria.png",
     "Url": "https://victoria-group.ru"
   }
-]```
+]
 
-## Задание 3: архитектура
+
