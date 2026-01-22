@@ -77,3 +77,4 @@ GET https://api.petrushka.ru/partners
 ```
 
 ## Задание 3: архитектура
+<img width="752" height="1069" alt="image" src="https://github.com/user-attachments/assets/5eacad8e-678e-400a-b1f9-afaaea924e02" />
